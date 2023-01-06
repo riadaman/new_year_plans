@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  font-family: "Work Sans";
+}
+/* header css */
+.header {
+  background-image: url(../images/banner/banner2.png);
+  height: 810px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 130px;
+}
+/* banner css */
+.banner {
+  width: 525px;
+  margin-top: 215p;
+  padding-top: 216px;
+  padding-left: 65%;
+}
+.banner-title {
+  font-weight: 700;
+  font-size: 65px;
+  text-align: right;
+}
+.banner-description {
+  margin-top: 24px;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: right;
+  margin-bottom: 30px;
+}
+.btn-banner {
+  height: 64px;
+  padding: 20px;
+  background: #f15b22;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: right;
+  border: 0;
+  margin-left: 370px;
+}
+
+/* my-failure section css */
+.my-failure {
+  display: flex;
+  padding-left: 300px;
+  padding-right: 300px;
+  gap: 150px;
+}
+.section-item{
+    margin-top: 195px;
+}
+.section-title {
+  width: 288px;
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  margin-bottom: 24px;
+}
+.section-description {
+  width: 416px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  margin-bottom: 15px;
+}
+.section-list {
+  padding-left: 0px;
+  list-style: none;
+}
+.section-list li {
+  margin-top: 8px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+}
