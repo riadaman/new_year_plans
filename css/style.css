@@ -48,9 +48,10 @@
   padding-left: 300px;
   padding-right: 300px;
   gap: 150px;
+  margin-bottom: 130px;
 }
-.section-item{
-    margin-top: 195px;
+.section-item {
+  margin-top: 195px;
 }
 .section-title {
   width: 288px;
@@ -75,4 +76,29 @@
   font-weight: 400;
   font-size: 16px;
   color: #444343;
+}
+/* myplan section css */
+.plan-container {
+  display: flex;
+  gap: 189px;
+  padding: 0 230px;
+  text-align: center;
+}
+.plan-section-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.plan-container-title {
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: 20px;
+}
+.plan-description {
+  font-weight: 500;
+  font-size: 25px;
+  color: #737272;
+  margin-top: 16px;
 }
